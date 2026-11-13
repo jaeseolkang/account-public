@@ -1,7 +1,7 @@
 
 'use strict';
 const CACHE_PREFIX = 'gaegyebu-' + self.registration.scope;
-const CACHE_NAME = CACHE_PREFIX + '-v4130';
+const CACHE_NAME = CACHE_PREFIX + '-v4132';
 const INDEX_FILES = ["./local-index.html","./index.html","./"];
 const ASSETS = ['./xlsx-js-style.min.js', './jspdf.umd.min.js', './html2canvas.min.js', './manifest.json'];
 
